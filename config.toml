@@ -1,0 +1,22 @@
+name = "Your Name"
+version = "0.1.0"
+
+authors = [
+    "Ahum Maitra (@TheAhumMaitra) theahummaitra@gmail.com",
+]
+
+license = "MIT"
+wallpapers_sources = ["https://imgur.com/a/name-4k-wallpaper-galore-ShAOh"]
+repo_url = "https://github.com/TheAhumMaitra/Your-Name-For-Aurora"
+
+[gtk]
+theme_name = "Midnight"
+icon_theme = "Yaru-blue"
+
+[vscode]
+publisher = "ahummaitra"
+extension_name = "your-name-theme"
+theme_name = "Your Name. Theme"
+
+[zed]
+theme_name = "YourName"
