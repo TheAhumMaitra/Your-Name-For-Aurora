@@ -6,6 +6,11 @@ My favourite anime film is Your Name. I like it too much, I love it. I decided t
 
 ![Preview of theme](preview.png)
 
+# Installation
+```
+aurora download-theme https://github.com/TheAhumMaitra/Your-Name-For-Aurora
+```
+
 # NOTICE
 
 The wallpapers included in this repository are inspired by the movie _Your Name (Kimi no Na wa)_ by Makoto Shinkai and CoMix Wave Films.
