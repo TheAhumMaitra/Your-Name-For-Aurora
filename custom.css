@@ -1,12 +1,13 @@
 @define-color accent #37618E;
-@define-color active-background #272A2F;
+@define-color active-background #001D36;
 @define-color active-accent #E1E2E8;
 @define-color urgent-background #FFB4AB;
-@define-color border #8D9199;
-@define-color surface #111418;
-@define-color surface-alt #1D2024;
+@define-color border #001D36;
+@define-color surface #101C2B;
+@define-color surface-alt #001D36;
 @define-color muted #C3C6CF;
-@define-color theme_bg_color #111418;
+@define-color theme_bg_color #101C2B;
 @define-color theme_fg_color #E1E2E8;
 @define-color success_color #D7BEE4;
 @define-color warning_color #BBC7DB;
+
